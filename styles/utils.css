@@ -2,7 +2,7 @@
     display: inline-block;
     font-weight: 300;
     text-decoration: none;
-    background-color: var(--clr-yellow400);
+    background-color: var(--clr-pink);
 }
 
 .body {
@@ -18,19 +18,20 @@ a {
 }
 
 /* xs */
-@media (mind-width: 475px) {
+/* @media (mind-width: 475px) {
  .container {
     max-width: 475px;
  }
-} 
+}  */
 
 /* sm */
- @media (mind-width: 640px) {
+ /* @media (mind-width: 650px) {
     .container {
-        max-width: 640px;
+        max-width: 650px;
     } 
 } 
- 
+*/
+
 /* m */
  /* @media (mind-width: 768px) {
     .container {
@@ -39,12 +40,12 @@ a {
 }  */
 
 /* lg */
- @media (mind-width: 1024px) {
+ /* @media (mind-width: 1024px) {
     .container {
         max-width: 1024px;
     }  
    
-} 
+}  */
 
 /* xl */
  /* @media (mind-width: 1280px) {
